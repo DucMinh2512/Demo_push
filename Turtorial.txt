@@ -1,0 +1,15 @@
+Step 1: Configuration with Github account
+git config –global user.name ……
+git config –global user.email  …….
+Step 2: Clone code from Github
+git clone http:// github……..
+Push with main branch
+Git status
+Git add .
+Git commit -m “messege text”
+Git push origin main
+Push with master branch
+Git status
+Git add .
+Git remot add origin http:// github ……
+Git push origin master
